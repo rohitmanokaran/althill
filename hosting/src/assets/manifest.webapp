@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "Freeworld",
+  "launch_path": "/index.html",
+  "description": "Learn language through chat, not study,
+  "developer": {
+    "name": "Rohit",
+    "url": "https://freeworld.app"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Freeworld",
+      "description": "Learn language through chat, not study"
+    }
+  }
+}

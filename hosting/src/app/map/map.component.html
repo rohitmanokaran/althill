@@ -1,0 +1,11 @@
+<div>
+  <google-map [height]="height" [width]="width" [options]="options"
+        (mapClick)="moveLocationTo($event)">
+    <map-marker 
+        [position]="centerPosition"
+        [options]="centerMarkerOptions"></map-marker>
+    <map-marker *ngFor="let markerPosition of markerPositions"
+        [position]="markerPosition"
+        [options]="markerOptions"></map-marker>
+  </google-map>
+</div>

@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.freeworld.twa",
+      "sha256_cert_fingerprints": [
+        "CB:15:7A:8B:5C:78:C4:52:4B:7B:1D:3F:86:43:03:EC:A5:06:28:57:9D:F5:59:C8:A5:37:90:16:57:B4:9C:42",
+        "FF:ED:33:C9:6D:29:46:FC:3B:2C:67:B4:12:AE:CD:B0:D6:38:3B:ED:44:49:64:05:F4:9F:DA:17:40:3A:AD:52"
+      ]
+    }
+  }
+]
